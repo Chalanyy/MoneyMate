@@ -1,0 +1,38 @@
+name: money_mate
+description: A simple Flutter app to track weekly expenses.
+
+publish_to: 'none' # Remove this line if you plan to publish the package
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.11
+  intl: ^0.20.2
+  shared_preferences: ^2.0.15
+  fl_chart: ^0.40.0
+  animate_do: ^4.1.1
+  animated_text_kit: ^4.2.3
+  flutter_staggered_animations: ^1.1.1
+  csv: ^6.0.0
+  flutter_application_1: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/money_image.jpg
+    - assets/mylogo.png
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/mylogo.png"
