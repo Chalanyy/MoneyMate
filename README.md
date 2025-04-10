@@ -18,7 +18,7 @@
 </p>
 
 
-https://raw.githubusercontent.com/Chalanyy/MoneyMate/main/welcome.jpg
+
 
 
 
