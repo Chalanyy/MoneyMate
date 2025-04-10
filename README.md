@@ -1,3 +1,8 @@
-# flutter_application_1
+#💰 **MoneyMate** 
 
-A new Flutter project.
+*Expense Tracker App*
+
+- Track expenses in real-time.
+- Manage expense categories.
+- Set and monitor budget goals.
+- Visualize data with charts.
