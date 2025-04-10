@@ -17,4 +17,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
 </p>
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="screenshots/welcome.jpg" alt="Welcome Screen" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/dashboard.jpg" alt="Dashboard Screen" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/all.jpg" alt="Category Screen" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/total.jpg" alt="Total Expenses Screen" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/signup.jpg" alt="Signup Screen" width="250"/>
+</p>
 
