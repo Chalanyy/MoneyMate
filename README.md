@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
 </p>
 
+
 ## 📱 App Screenshots
 
 <p align="center">
@@ -32,4 +33,6 @@
   &nbsp;&nbsp;
   <img src="screenshots/signup.jpg" alt="Signup Screen" width="250"/>
 </p>
+
+
 
