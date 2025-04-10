@@ -18,21 +18,7 @@
 </p>
 
 
-## 📱 App Screenshots
 
-<p align="center">
-  <img src="C:\Users\HP\Downloads\screenshot\total.jpg" alt="Welcome Screen" width="250"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/dashboard.jpg" alt="Dashboard Screen" width="250"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/all.jpg" alt="Category Screen" width="250"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/total.jpg" alt="Total Expenses Screen" width="250"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/signup.jpg" alt="Signup Screen" width="250"/>
-</p>
 
 
 
