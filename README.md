@@ -29,8 +29,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chalanyy/MoneyMate/main/total.jpg" alt="Total Expenses Screen" width="250"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Chalanyy/MoneyMate/main/signup.jpg" alt="Signup Screen" width="250"/>
+  
 </p>
 
 
