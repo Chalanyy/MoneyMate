@@ -21,7 +21,7 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="screenshots/welcome.jpg" alt="Welcome Screen" width="250"/>
+  <img src="C:\Users\HP\Downloads\screenshot\total.jpg" alt="Welcome Screen" width="250"/>
   &nbsp;&nbsp;
   <img src="screenshots/dashboard.jpg" alt="Dashboard Screen" width="250"/>
   &nbsp;&nbsp;
