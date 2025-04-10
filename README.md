@@ -16,3 +16,20 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
 </p>
+
+
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="C:\Users\HP\Downloads\welcome.jpg" alt="Welcome Screen" width="250"/>
+  &nbsp;&nbsp;
+  <img src="C:\Users\HP\Downloads\dashboard.jpg" alt="Dashboard Screen" width="250"/>
+  &nbsp;&nbsp;
+  <img src="C:\Users\HP\Downloads\all.jpg" alt="Category Screen" width="250"/>
+</p>
+
+<p align="center">
+  <img src="C:\Users\HP\Downloads\total.jpg" alt="Total Expenses Screen" width="250"/>
+  &nbsp;&nbsp;
+  <img src="C:\Users\HP\Downloads\signup.jpg" alt="Signup Screen" width="250"/>
+</p>
